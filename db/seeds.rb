@@ -28,3 +28,10 @@ cheese2 = Cheese.create(name: "Brie",
                         image: "https://cdn.shopify.com/s/files/1/2836/2982/products/brie-recipe_grande.jpg?v=1533088694"
 )
 
+cheese3 = Cheese.create(name: "Raclette", 
+                        texture: "semi-soft",
+                        flavor: "medium",
+                        milk: "cow",
+                        image: "https://images-na.ssl-images-amazon.com/images/I/51hWNtLUV0L._SY355_.jpg"
+)
+
